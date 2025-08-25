@@ -4,7 +4,7 @@ All the cool kids had a GitHub page, so I decided to make one, too! I'm interest
 
 My Journey so Far
 
-My research has spanned a few areas:
+## My research has spanned a few areas:
 
 ->Signal Processing: At the master's level, I worked with STFT, Wavelets, and Video Processing. My thesis was on "Enhancing Time Frequency Representations using Dual Basis Pursuit," advised by Prof. Ivan Selesnick.
 
